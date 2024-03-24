@@ -1,4 +1,4 @@
-
+<img align='right' src= https://github.com/TechWithChris/TechWithChris/blob/main/659e04dc-17a6-4026-bd72-a7dc2a0077bc.jpeg width="200">
 
 ## About Me 👋
 I am Christianah Ashaolu (she/her) a passionate Data Scientist 
