@@ -12,8 +12,13 @@ I am Christianah Ashaolu (she/her) a passionate Data Scientist
 - Adabtable
 - Great Communicator
 ## Programming Language 
-#### Python
-#### SQL
+#### Software Development within Python and SQL
+#### Object- Oriented Programming
+#### Data Transformation and manipulation
+#### Data Visualisation
+#### Machine learning 
+#### Natural language processing 
+#### Source Version Control 
 
 ## Visualization Tool 📊
 #### Tableau
