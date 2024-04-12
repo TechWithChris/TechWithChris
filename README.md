@@ -9,8 +9,13 @@ I am Christianah Ashaolu (she/her) a passionate Data Scientist
 - Problem Solver
 - Attention to Details
 ## Programming Language 
-#### Python
-#### SQL
+#### Software Development within Python and SQL
+#### Object- Oriented Programming
+#### Data Transformation and manipulation
+#### Data Visualisation
+#### Machine learning 
+#### Natural language processing 
+#### Source Version Control 
 
 ## Visualization Tool 📊
 #### Tableau
