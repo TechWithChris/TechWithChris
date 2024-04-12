@@ -2,20 +2,18 @@
 
 ## About Me 👋
 I am Christianah Ashaolu (she/her) a passionate Data Scientist 
-- 🌱 I am currently learning at Co-grammer Bootcamp
+- 🌱 I am currently learning at Co-grammer HyperionDev Bootcamp
 - ⚡ Fun Fact: I love coding and open to learning
-## Skills 
+## Soft Skills 
 - Team Player 
 - Problem Solver
 - Attention to Details
+- Critical Thinking
+- Adabtable
+- Great Communicator
 ## Programming Language 
-#### Software Development within Python and SQL
-#### Object- Oriented Programming
-#### Data Transformation and manipulation
-#### Data Visualisation
-#### Machine learning 
-#### Natural language processing 
-#### Source Version Control 
+#### Python
+#### SQL
 
 ## Visualization Tool 📊
 #### Tableau
